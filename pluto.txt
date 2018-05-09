@@ -1,14 +1,5 @@
 It is so a planet!
-<<<<<<< HEAD
 Ogando
 In fact, Pluto is from Disney!
-=======
-
->>>>>>> 3cbfead4a9808add3e7cf5c84e3b373e002ff996
-
-
 Pluto is not a planet sorry
-Ogando
-
-
 Bye, pluto!
